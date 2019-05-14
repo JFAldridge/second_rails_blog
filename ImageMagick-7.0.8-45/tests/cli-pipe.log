@@ -1,0 +1,49 @@
+1..17
+ok
+PASS: tests/cli-pipe.tap 1
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 2
+-=>/tmp/magick-18589pTC-UbAiDj0z MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.010u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 3
+-=>/tmp/magick-18618FmS68WG5xceu PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 4
+ok
+PASS: tests/cli-pipe.tap 5
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.003
+ok
+PASS: tests/cli-pipe.tap 6
+-=>/tmp/magick-18675rHQ1sEPwHZ2E MIFF 70x46 70x46+0+0 8-bit TrueColor sRGB 10016B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 7
+-=>/tmp/magick-187047UckSESsLHGJ PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 8
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.003
+ok
+PASS: tests/cli-pipe.tap 9
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.003
+ok
+PASS: tests/cli-pipe.tap 10
+ok
+PASS: tests/cli-pipe.tap 11
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.005
+ok
+PASS: tests/cli-pipe.tap 12
+-=>/tmp/magick-18790nr7jkDYMyhe1 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.000
+ok
+PASS: tests/cli-pipe.tap 13
+fd:5 PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 14
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.005
+ok
+PASS: tests/cli-pipe.tap 15
+/home/eojo/Documents/Projects/second_blog/ImageMagick-7.0.8-45/tests/rose.pnm PPM 70x46 70x46+0+0 8-bit sRGB 9673B 0.010u 0:00.003
+ok
+PASS: tests/cli-pipe.tap 16
+pnm:- PNM 70x46 70x46+0+0 8-bit sRGB 9673B 0.000u 0:00.001
+ok
+PASS: tests/cli-pipe.tap 17
